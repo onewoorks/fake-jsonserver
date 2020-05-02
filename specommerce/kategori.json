@@ -2,16 +2,39 @@
   "data":   [
     {
       "id":"1",
-      "category": "gelang kaki",
+      "name": "gelang kaki",
       "description": "",
       "image": "https://www.25karats.com/articles/wp-content/uploads/2015/07/wedding-rings1.jpg"
     },
     {
       "id":"2",
-      "category": "rantai tangan",
+      "name": "rantai tangan",
       "description": "",
       "image": "https://www.25karats.com/articles/wp-content/uploads/2015/07/wedding-rings1.jpg"
     },
+    {
+      "id":"3",
+      "name": "loket",
+      "description": "",
+      "image": "https://www.25karats.com/articles/wp-content/uploads/2015/07/wedding-rings1.jpg"
+    },
+    {
+      "id":"4",
+      "name": "anting-anting",
+      "description": "",
+      "image": "https://www.25karats.com/articles/wp-content/uploads/2015/07/wedding-rings1.jpg"
+    },
+    {
+      "id":"5",
+      "name": "cincin",
+      "description": "",
+      "image": "https://www.25karats.com/articles/wp-content/uploads/2015/07/wedding-rings1.jpg"
+    },
+    {
+      "id":"6",
+      "name": "chocker",
+      "description": "",
+      "image": "https://www.25karats.com/articles/wp-content/uploads/2015/07/wedding-rings1.jpg"
+    }
   ]
-
 }
