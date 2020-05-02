@@ -7,5 +7,23 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+    "templating": [
+        {
+            "key": "nama",
+            "value": "Nama pelanggan"
+        },
+        {
+            "key": "mata_ganjaran",
+            "value": "mata ganjaran terkumpul"
+        },
+        {
+            "key": "jumlah_pembelian",
+            "value": "Nilai Pembelian"
+        },
+        {
+            "key": "tarikh_transaksi",
+            "value": "Tarikh transaksi dijalankan"
+        }
+    ]
 }
